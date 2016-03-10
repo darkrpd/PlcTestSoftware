@@ -1,0 +1,62 @@
+C:\Users\serkann\Desktop\simpleperfchart_src\SimplePerfChart\bin\Debug\SimplePerfChart.exe
+C:\Users\serkann\Desktop\simpleperfchart_src\SimplePerfChart\bin\Debug\SimplePerfChart.pdb
+C:\Users\serkann\Desktop\simpleperfchart_src\SimplePerfChart\bin\Debug\SpPerfChart.dll
+C:\Users\serkann\Desktop\simpleperfchart_src\SimplePerfChart\bin\Debug\SpPerfChart.pdb
+C:\Users\serkann\Desktop\simpleperfchart_src\SimplePerfChart\obj\Debug\DemoApplication.csprojResolveAssemblyReference.cache
+C:\Users\serkann\Desktop\simpleperfchart_src\SimplePerfChart\obj\Debug\SimplePerfChart.FrmTestingForm.resources
+C:\Users\serkann\Desktop\simpleperfchart_src\SimplePerfChart\obj\Debug\SimplePerfChart.Properties.Resources.resources
+C:\Users\serkann\Desktop\simpleperfchart_src\SimplePerfChart\obj\Debug\DemoApplication.csproj.GenerateResource.Cache
+C:\Users\serkann\Desktop\simpleperfchart_src\SimplePerfChart\obj\Debug\SimplePerfChart.exe
+C:\Users\serkann\Desktop\simpleperfchart_src\SimplePerfChart\obj\Debug\SimplePerfChart.pdb
+F:\c#\c# plc\simpleperfchart_src\SimplePerfChart\obj\Debug\SimplePerfChart.exe
+F:\c#\c# plc\simpleperfchart_src\SimplePerfChart\obj\Debug\SimplePerfChart.pdb
+F:\c#\c# plc\simpleperfchart_src\SimplePerfChart\bin\Debug\SimplePerfChart.exe
+F:\c#\c# plc\simpleperfchart_src\SimplePerfChart\bin\Debug\SimplePerfChart.pdb
+F:\c#\c# plc\simpleperfchart_src\SimplePerfChart\bin\Debug\SpPerfChart.dll
+F:\c#\c# plc\simpleperfchart_src\SimplePerfChart\bin\Debug\SpPerfChart.pdb
+F:\c#\c# plc\simpleperfchart_src\SimplePerfChart\obj\Debug\DemoApplication.csprojResolveAssemblyReference.cache
+F:\c#\c# plc\simpleperfchart_src\SimplePerfChart\obj\Debug\SimplePerfChart.FrmTestingForm.resources
+F:\c#\c# plc\simpleperfchart_src\SimplePerfChart\obj\Debug\SimplePerfChart.Properties.Resources.resources
+F:\c#\c# plc\simpleperfchart_src\SimplePerfChart\obj\Debug\DemoApplication.csproj.GenerateResource.Cache
+C:\Users\rpd\Desktop\simpleperfchart_src\SimplePerfChart\obj\Debug\SimplePerfChart.exe
+C:\Users\rpd\Desktop\simpleperfchart_src\SimplePerfChart\obj\Debug\SimplePerfChart.pdb
+C:\Users\rpd\Desktop\simpleperfchart_src\SimplePerfChart\obj\Debug\DemoApplication.csprojResolveAssemblyReference.cache
+C:\Users\rpd\Desktop\simpleperfchart_src\SimplePerfChart\obj\Debug\SimplePerfChart.FrmTestingForm.resources
+C:\Users\rpd\Desktop\simpleperfchart_src\SimplePerfChart\obj\Debug\SimplePerfChart.Properties.Resources.resources
+C:\Users\rpd\Desktop\simpleperfchart_src\SimplePerfChart\obj\Debug\DemoApplication.csproj.GenerateResource.Cache
+C:\Users\rpd\Desktop\simpleperfchart_src\SimplePerfChart\bin\Debug\SimplePerfChart.exe
+C:\Users\rpd\Desktop\simpleperfchart_src\SimplePerfChart\bin\Debug\SimplePerfChart.pdb
+C:\Users\rpd\Desktop\simpleperfchart_src\SimplePerfChart\bin\Debug\SpPerfChart.dll
+C:\Users\rpd\Desktop\simpleperfchart_src\SimplePerfChart\bin\Debug\SpPerfChart.pdb
+C:\Users\rpd\Desktop\RealTimeGraph-master\SimplePerfChart\obj\Debug\SimplePerfChart.exe
+C:\Users\rpd\Desktop\RealTimeGraph-master\SimplePerfChart\obj\Debug\SimplePerfChart.pdb
+C:\Users\rpd\Desktop\RealTimeGraph-master\SimplePerfChart\bin\Debug\SimplePerfChart.exe
+C:\Users\rpd\Desktop\RealTimeGraph-master\SimplePerfChart\bin\Debug\SimplePerfChart.pdb
+C:\Users\rpd\Desktop\RealTimeGraph-master\SimplePerfChart\bin\Debug\SpPerfChart.dll
+C:\Users\rpd\Desktop\RealTimeGraph-master\SimplePerfChart\bin\Debug\SpPerfChart.pdb
+C:\Users\rpd\Desktop\RealTimeGraph-master\SimplePerfChart\obj\Debug\DemoApplication.csprojResolveAssemblyReference.cache
+C:\Users\rpd\Desktop\RealTimeGraph-master\SimplePerfChart\obj\Debug\SimplePerfChart.FrmTestingForm.resources
+C:\Users\rpd\Desktop\RealTimeGraph-master\SimplePerfChart\obj\Debug\SimplePerfChart.Properties.Resources.resources
+C:\Users\rpd\Desktop\RealTimeGraph-master\SimplePerfChart\obj\Debug\DemoApplication.csproj.GenerateResource.Cache
+C:\Users\Gaye\Desktop\RealTimeGraph-master\SimplePerfChart\obj\Debug\SimplePerfChart.exe
+C:\Users\Gaye\Desktop\RealTimeGraph-master\SimplePerfChart\obj\Debug\SimplePerfChart.pdb
+C:\Users\Gaye\Desktop\RealTimeGraph-master\SimplePerfChart\bin\Debug\SimplePerfChart.exe
+C:\Users\Gaye\Desktop\RealTimeGraph-master\SimplePerfChart\bin\Debug\SimplePerfChart.pdb
+C:\Users\Gaye\Desktop\RealTimeGraph-master\SimplePerfChart\bin\Debug\SpPerfChart.dll
+C:\Users\Gaye\Desktop\RealTimeGraph-master\SimplePerfChart\bin\Debug\SpPerfChart.pdb
+C:\Users\Gaye\Desktop\RealTimeGraph-master\SimplePerfChart\obj\Debug\DemoApplication.csprojResolveAssemblyReference.cache
+C:\Users\Gaye\Desktop\RealTimeGraph-master\SimplePerfChart\obj\Debug\SimplePerfChart.Aging.resources
+C:\Users\Gaye\Desktop\RealTimeGraph-master\SimplePerfChart\obj\Debug\SimplePerfChart.Anasayfa.resources
+C:\Users\Gaye\Desktop\RealTimeGraph-master\SimplePerfChart\obj\Debug\SimplePerfChart.FrmTestingForm.resources
+C:\Users\Gaye\Desktop\RealTimeGraph-master\SimplePerfChart\obj\Debug\SimplePerfChart.Impulse.resources
+C:\Users\Gaye\Desktop\RealTimeGraph-master\SimplePerfChart\obj\Debug\SimplePerfChart.Leak.resources
+C:\Users\Gaye\Desktop\RealTimeGraph-master\SimplePerfChart\obj\Debug\SimplePerfChart.Properties.Resources.resources
+C:\Users\Gaye\Desktop\RealTimeGraph-master\SimplePerfChart\obj\Debug\SimplePerfChart.Temperature.resources
+C:\Users\Gaye\Desktop\RealTimeGraph-master\SimplePerfChart\obj\Debug\SimplePerfChart.Vibration.resources
+C:\Users\Gaye\Desktop\RealTimeGraph-master\SimplePerfChart\obj\Debug\DemoApplication.csproj.GenerateResource.Cache
+C:\Users\rpd\Desktop\RealTimeGraph-master\SimplePerfChart\obj\Debug\SimplePerfChart.Aging.resources
+C:\Users\rpd\Desktop\RealTimeGraph-master\SimplePerfChart\obj\Debug\SimplePerfChart.Anasayfa.resources
+C:\Users\rpd\Desktop\RealTimeGraph-master\SimplePerfChart\obj\Debug\SimplePerfChart.Impulse.resources
+C:\Users\rpd\Desktop\RealTimeGraph-master\SimplePerfChart\obj\Debug\SimplePerfChart.Leak.resources
+C:\Users\rpd\Desktop\RealTimeGraph-master\SimplePerfChart\obj\Debug\SimplePerfChart.Temperature.resources
+C:\Users\rpd\Desktop\RealTimeGraph-master\SimplePerfChart\obj\Debug\SimplePerfChart.Vibration.resources
